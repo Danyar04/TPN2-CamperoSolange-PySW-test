@@ -1,5 +1,5 @@
 .header{
-    background-image: url('./img/imagen-cafe.jpg');
+    background-image: url('/img/imagen-cafe.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@ header h1{
 }
 
 body{
-    background-image: url('img/imagen-deFondo.jpg');
+    background-image: url('/img/imagen-deFondo.jpg');
 }
 header .container-fluid{
     background: linear-gradient(to top, transparent,rgb(77 72 70),rgb(77 72 70));
