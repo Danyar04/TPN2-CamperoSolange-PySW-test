@@ -246,7 +246,7 @@ footer .footer2 i{
 /* Media Queries para dispositivos móviles */
 @media (max-width: 767px) {
     .header{
-        background-image: url('img/imagen-cafe');
+        background-image: url('img/imagen-cafe.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
