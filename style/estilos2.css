@@ -1,5 +1,5 @@
 .header{
-    background-image: url('img/fondoImg1.jpg');
+    background-image: url('../img/fondoImg1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -24,7 +24,7 @@
 }
 
 body{
-    background-image: url('img/imagen-deFondo.jpg');
+    background-image: url('../img/imagen-deFondo.jpg');
     
 }
 .container-fluid-1 {
